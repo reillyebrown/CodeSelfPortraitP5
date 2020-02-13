@@ -1,1 +1,2 @@
-# CodeSelfPortraitP5
+# CodeSelfPortrait
+Drawing of myself
